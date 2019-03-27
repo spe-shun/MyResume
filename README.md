@@ -12,49 +12,57 @@
 
 选择中英文和是否有照片：
 
-- \phototrue 且将图片放入根目录 （默认为1.jpg）
-
-- \englishtrue 且在文中需要中英文区别时使用命令\lang{English}{中文}
+| Latex 命令   | 解释                                                   |
+| ------------ | ------------------------------------------------------ |
+| \phototrue   | 且将图片放入根目录 （默认为1.jpg）                     |
+| \englishtrue | 且在文中需要中英文区别时使用命令  \lang{English}{中文} |
 
 个人信息排版：
 
 eg. \threecontact{1}{2}{3}
 
-- \twocontact 一行两列信息排布
-- \threecontact 一行三列信息排布
-- \fourcontact 两行两列信息排布
-- \sixxcontact 三行两列信息排布
-- \sixcontact 两行三列信息排布
-- \eightcontact 四行两列信息排布
-- \ninecontact 三行三列信息排布
+| Latex 命令    | 解释             |
+| ------------- | ---------------- |
+| \twocontact   | 一行两列信息排布 |
+| \threecontact | 一行三列信息排布 |
+| \fourcontact  | 两行两列信息排布 |
+| \sixxcontact  | 三行两列信息排布 |
+| \sixcontact   | 两行三列信息排布 |
+| \eightcontact | 四行两列信息排布 |
+| \ninecontact  | 三行三列信息排布 |
 
 内容可选项:
 
 eg. \lang{\address{street}}{\address{街}}
 
-- \address
-- \phone
-- \email
-- \person(age,sex,native,etc) \homepage
-- \facebook
-- \github
-- \linkedin
-- \twitter
-- \wechat
-- \weibo
-- \qq
+| Latex 命令                  | 解释     |
+| --------------------------- | -------- |
+| \address                    | 地址     |
+| \phone                      | 手机     |
+| \email                      | 邮箱     |
+| \person(age,sex,native,etc) | 个人信息 |
+| \homepage                   | 主页     |
+| \facebook                   | facebook |
+| \github                     | git 地址 |
+| \linkedin                   | linkedin |
+| \twitter                    | twitter  |
+| \wechat                     | wechat   |
+| \weibo                      | weibo    |
+| \qq                         | qq       |
 
 文章内容选项:
 
 eg. \ytitle{title}{题目}
 
-- \myname 名字
-- \yparagraph 普通段落
-- \ytitle 带横线大标题
-- \ysubtitle 小标题
-- \ytimeline 2*2时间事件
-- \ylist 列表段落
-- \yevent 1*3时间事件
+| Latex 命令  | 解释         |
+| ----------- | ------------ |
+| \myname     | 名字         |
+| \yparagraph | 普通段落     |
+| \ytitle     | 带横线大标题 |
+| \ysubtitle  | 小标题       |
+| \ytimeline  | 2*2时间事件  |
+| \ylist      | 列表段落     |
+| \yevent     | 1*3时间事件  |
 
 ## 实例(Instance)
 
@@ -69,5 +77,3 @@ eg. \ytitle{title}{题目}
 ![EnglishWithPhoto_Page_2](./demo/EnglishWithPhoto_Page_2.png)
 
 ## License
-
-[MIT](LICENSE)

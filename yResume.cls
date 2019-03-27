@@ -73,7 +73,7 @@
 % my name title
 \newcommand*{\myname}{
 	\begin{center}
-		{\Huge \sf \@name \par}
+		{\huge \sf \@name \par}
 	\end{center}
 }
 \newcommand{\yparagraph}[1]{
