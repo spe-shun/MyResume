@@ -77,3 +77,5 @@ eg. \ytitle{title}{题目}
 ![EnglishWithPhoto_Page_2](./demo/EnglishWithPhoto_Page_2.png)
 
 ## License
+
+[MIT](./LICENSE)
