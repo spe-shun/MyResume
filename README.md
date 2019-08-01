@@ -19,7 +19,7 @@
 
 个人信息排版：
 
-eg. \threecontact{1}{2}{3}
+eg. `\threecontact{1}{2}{3}`
 
 | Latex 命令    | 解释             |
 | ------------- | ---------------- |
@@ -33,7 +33,7 @@ eg. \threecontact{1}{2}{3}
 
 内容可选项:
 
-eg. \lang{\address{street}}{\address{街}}
+eg. `\lang{\address{street}}{\address{街}}`
 
 | Latex 命令                  | 解释     |
 | --------------------------- | -------- |
@@ -52,7 +52,7 @@ eg. \lang{\address{street}}{\address{街}}
 
 文章内容选项:
 
-eg. \ytitle{title}{题目}
+eg. `\ytitle{title}{题目}`
 
 | Latex 命令  | 解释         |
 | ----------- | ------------ |
