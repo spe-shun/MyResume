@@ -1,7 +1,6 @@
 # 极简风格设计中英文简历模板(a resume Class File in two language with minimalist design)
 
 - 作者(auther): 杨舜禹(Shunyu Yang)
-- 邮箱(email) : shunyu.1994@gmail.com
 - 可选照片/中英文(Language/photo available - for selection)
 
 ## 基本设定(Basic setting)
